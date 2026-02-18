@@ -1,0 +1,7 @@
+{
+  "name": "SkyCast AI",
+  "description": "A sophisticated AI-powered weather application that provides real-time insights, grounded search results, and dynamic weather visualizations using Gemini.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
